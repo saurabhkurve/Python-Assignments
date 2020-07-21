@@ -1,0 +1,23 @@
+Day 1 Assignment (Batch6)
+
+Question 1:What is Python?What are the ways to install python in PC?
+Answer:
+Python is a programming language which was marketed by Google since then has been into many applications because of its easy-to-learn syntax, compact coding and large number of libraries.
+There are several ways to install python in PC:
+1. Directly go and download the installation package from python.
+2. Downloading IDE based python which has inbuilt libraries like in Anaconda there is Panda, Numpy, Django, Jupyter, Tensorflow, Conda, Pytorch,Scipy,Spyder,Matplotlib,etc.
+
+
+Question 2: What are the Code Environments? and its Types.
+Answer:
+Code environment is a platform/software that consists of equipment that can be used for scripting codes, execution, developing, or testing the software. It may provide tools to automate programmer's manual tasks.
+
+There are three types of code environments:
+
+1)Text Editors: Here the programmer can write and modify the code only. These are general text editors. Like Notepad++ where you write any code as text. It can be customized.
+e.g Visual Studio Code,Atom,etc.
+
+2)Full IDE: Integrated Development Environment, All the essential tools may be installed already for automating the programmer's tasks like file management, selections, debug, integrations, and deployments. Here, these are language-specific.
+e.g PyCharm, Spyder,etc.
+
+3)Notebooks: Like Jupyter Notebook are good for input and output of codes. Plus point is we can download files as non .py files as well.Notebooks are used for great learning.
